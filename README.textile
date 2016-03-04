@@ -1,5 +1,7 @@
 To run dev server:
-Download google appengine Java SDK first.
+Download google appengine Java SDK first, and as mentioned below, you should download version 1.2.1, from maven http://mvnrepository.com/artifact/com.google.appengine/appengine-java-sdk/1.2.1
+
+then put this project under /opt/webapps
 
 /path/to/appengine/bin/dev_appserver.sh /opt/webapps/envjs-site/
 
