@@ -1,4 +1,5 @@
 To run dev server:
+Download google appengine Java SDK first.
 
 /path/to/appengine/bin/dev_appserver.sh /opt/webapps/envjs-site/
 
